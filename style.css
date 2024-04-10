@@ -1,0 +1,52 @@
+  img{
+          width: 100px;
+          height: auto;
+          display: block;
+          margin: 0px auto;
+  }
+  div{
+        width: 25%;
+        border: 1px solid grey;
+        margin: 0px auto;
+        border-radius: 8px;
+  } 
+   .p1{
+        font-size: 22px;
+        font-family:  sans-serif;
+        font-weight: 700;
+        margin-left: 15px;
+  }
+  form{
+
+        margin-left: 15px;
+  }
+  label{
+          font-weight: 600;
+          font-family: sans-serif;
+
+  }
+  input{
+         width: 300px;
+         padding: 5px;
+
+
+  }
+  i{
+        color: rgb(29, 29, 190);
+        font-size: 20px;
+        font-weight: bold;
+  }
+  .p2{
+         line-height: 0px;
+  }
+  button{
+          width: 300px;
+          border-radius: 8px;
+          padding: 5px;
+          background-color: yellow;
+          border: none;
+  }
+  span{
+         color: blue;
+
+  }
